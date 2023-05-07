@@ -6,7 +6,11 @@ const Home = () => {
       className="container d-flex justify-content-center align-items-center"
       style={{ minHeight: '80vh' }}
     >
-      <h1 className="fs-1">Página para guardar tus contactos</h1>
+      <div className="hero-text">
+        Una página para guardar tus contactos puede ser una solución práctica y
+        eficiente para mantener organizada la información personal y profesional
+        de tus contactos, aquí podrás lograrlo.
+      </div>
     </div>
   );
 };
